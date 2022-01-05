@@ -21,6 +21,14 @@ body
     font-size: 0.8em;
 }
 
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.6em;
+}
+
 #cabecera #logo
 {
     width: 40px;
